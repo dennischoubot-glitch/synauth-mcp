@@ -4,13 +4,13 @@ build-backend = "hatchling.build"
 
 [project]
 name = "synauth-mcp"
-version = "0.1.2"
+version = "0.1.3"
 description = "SynAuth MCP Server — Biometric approval for AI agent actions via Face ID"
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
 authors = [
-    { name = "SynAuth", email = "hello@synauth.dev" },
+    { name = "SynAuth", email = "hello@thesynthesis.ai" },
 ]
 keywords = ["mcp", "agent", "auth", "biometric", "face-id", "ai-agent", "authorization", "synauth"]
 classifiers = [
@@ -31,8 +31,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://synauth.dev"
-Documentation = "https://synauth.dev"
+Homepage = "https://thesynthesis.ai/auth"
+Documentation = "https://thesynthesis.ai/api-reference"
 Repository = "https://github.com/dennischoubot-glitch/synauth-mcp"
 
 [project.scripts]
