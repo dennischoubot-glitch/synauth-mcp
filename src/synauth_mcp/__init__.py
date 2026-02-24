@@ -1,3 +1,3 @@
 """SynAuth MCP Server — Biometric approval for AI agent actions."""
 
-__version__ = "0.1.3"
+__version__ = "0.1.4"

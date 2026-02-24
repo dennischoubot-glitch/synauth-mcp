@@ -1,3 +1,5 @@
+<!-- mcp-name: io.github.dennischoubot-glitch/synauth -->
+
 # SynAuth MCP Server
 
 Biometric authorization for AI agent actions. Every sensitive action your AI agent takes — sending emails, making purchases, accessing data, signing contracts — goes through Face ID verification on your iPhone.
